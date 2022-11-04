@@ -13,8 +13,11 @@
 #### Learned 
 
 :globe_with_meridians: How to use [OpenZeppelin](https://docs.openzeppelin.com/contracts/4.x/wizard) contract wizard.
-:globe_with_meridians: How to use [Remix](https://remix.ethereum.org) for online (browser) solidity smart contract development .
+
+:globe_with_meridians: How to use [Remix](https://remix.ethereum.org) for online (browser) solidity smart contract development.
+
 :globe_with_meridians: How to use [Alchemy](https://www.alchemy.com/) as an RPC provider to write and query the goerli testnet blockchain.
+
 :globe_with_meridians: How to use [Filebase](filebase.com) to host metadata on IPFS.
 
 
