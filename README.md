@@ -18,7 +18,7 @@
 
 :globe_with_meridians: How to use [Alchemy](https://www.alchemy.com/) as an RPC provider to write and query the goerli testnet blockchain.
 
-:globe_with_meridians: How to use [Filebase](filebase.com) to host metadata on IPFS.
+:globe_with_meridians: How to use [Filebase](https://www.filebase.com/) to host metadata on IPFS.
 
 #### Social
 
