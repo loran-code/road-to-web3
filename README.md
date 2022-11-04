@@ -1,1 +1,2 @@
-# road-to-web3
+#  NFT Smart Contract (ERC721) - week 1
+
