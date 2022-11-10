@@ -13,7 +13,9 @@
 
 Screenshot confirming the implemented require statement does not let a wallet mint more than the maximum amount specified.
 
+<center>
 <img src="images/proof.png" width="50%" height="50%" />
+</center>
 
 #### Learned 
 
