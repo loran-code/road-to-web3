@@ -4,11 +4,16 @@
 
 #### Proof
 
-:globe_with_meridians: [Deployed NFT Smart Contract](https://goerli.etherscan.io/address/0x244fa2d054a839d50eaff3e31abe33681a327b4a)
+:globe_with_meridians: [Deployed NFT Smart Contract](https://goerli.etherscan.io/address/0xb985b513ef1a2d545a1526bec9c48c7122d7115d)
 
-:globe_with_meridians: [NFT Mint TX](https://goerli.etherscan.io/tx/0x62c3c667fe6df5ceafe4dac8f15e3d75f5f7386754c36798c4b00f635852ce0a)
+:globe_with_meridians: [Contract code in Remix IDEA](https://remix.ethereum.org/address/0xb985b513ef1a2d545a1526bec9c48c7122d7115d)
 
 :globe_with_meridians: [OpenSea NFT](https://testnets.opensea.io/assets/goerli/0x244fa2d054a839d50eaff3e31abe33681a327b4a/0)
+
+**Challenge**
+Screenshot confirming the implemented require statement does not let a wallet mint more than the maximum amount specified.
+
+<img src="images/proof.png" width="50%" height="50%" />
 
 #### Learned 
 
