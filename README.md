@@ -10,7 +10,7 @@
 
 :globe_with_meridians: [OpenSea NFT](https://testnets.opensea.io/assets/goerli/0x244fa2d054a839d50eaff3e31abe33681a327b4a/0)
 
-**Challenge**
+
 Screenshot confirming the implemented require statement does not let a wallet mint more than the maximum amount specified.
 
 <img src="images/proof.png" width="50%" height="50%" />
